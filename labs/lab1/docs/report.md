@@ -1,6 +1,6 @@
 # **实验1：mini-pixels环境部署和TPCH测试** 
 
-姓名：樊昊天    学号：2022201535
+:man_student: Charles
 
 ## 实验描述
 
